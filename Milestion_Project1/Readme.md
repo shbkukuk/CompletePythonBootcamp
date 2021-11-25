@@ -7,4 +7,4 @@ Here are the requirements:
 - *The board should be printed out every time a player makes a move*
 - *You should be able to accept input of the player position and then place a symbol on the board*
 
-![image](tictac.jpg)
+     ![image](https://github.com/shbkukuk/CompletePythonBootcamp/blob/master/Milestion_Project1/images/tictac.jpg)
